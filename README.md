@@ -7,8 +7,8 @@ I am a final-year Computer Science student passionate about solving real-world p
 - Frameworks & Libraries: OpenCV, TensorFlow
 - Tools: VS Code, Pycharm, Odoo
 
-  ## Current Focus
+## Current Focus
   - Developing computer vision applications (Facial Expression Recognition)
   - Exploring e-commerce platform configurations
 
-  How to reach me: mrs.hnineishweyee@gmail.com
+How to reach me: mrs.hnineishweyee@gmail.com
